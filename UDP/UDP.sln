@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP", "UDP\UDP.csproj", "{59EA5ECA-A6F7-4ECD-B0FD-3AA924152C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestServer", "TestServer\TestServer.csproj", "{7FA498D8-93F0-4C29-981E-5DF71DC47FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient", "TestClient\TestClient.csproj", "{DC8A756D-530C-48AB-B3C3-21446F055646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59EA5ECA-A6F7-4ECD-B0FD-3AA924152C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EA5ECA-A6F7-4ECD-B0FD-3AA924152C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EA5ECA-A6F7-4ECD-B0FD-3AA924152C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EA5ECA-A6F7-4ECD-B0FD-3AA924152C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA498D8-93F0-4C29-981E-5DF71DC47FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA498D8-93F0-4C29-981E-5DF71DC47FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA498D8-93F0-4C29-981E-5DF71DC47FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA498D8-93F0-4C29-981E-5DF71DC47FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8A756D-530C-48AB-B3C3-21446F055646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8A756D-530C-48AB-B3C3-21446F055646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8A756D-530C-48AB-B3C3-21446F055646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8A756D-530C-48AB-B3C3-21446F055646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

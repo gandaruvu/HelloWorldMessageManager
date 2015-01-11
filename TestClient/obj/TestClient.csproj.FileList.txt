@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestClient.Form1.resources
+obj\Debug\TestClient.Properties.Resources.resources
+obj\Debug\TestClient.csproj.GenerateResource.Cache
+bin\Debug\TestClient.exe
+bin\Debug\TestClient.pdb
+bin\Debug\UDP.dll
+bin\Debug\UDP.pdb
+obj\Debug\TestClient.exe
+obj\Debug\TestClient.pdb

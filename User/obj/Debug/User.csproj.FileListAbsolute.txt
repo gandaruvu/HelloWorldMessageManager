@@ -1,0 +1,15 @@
+E:\10.12.39.205test\trunk\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+E:\10.12.39.205test\trunk\User\bin\Debug\User.dll
+E:\10.12.39.205test\trunk\User\bin\Debug\User.pdb
+E:\10.12.39.205test\trunk\User\obj\Debug\User.dll
+E:\10.12.39.205test\trunk\User\obj\Debug\User.pdb
+E:\Programme\软工实习\10.12.39.205\trunk\User\bin\Debug\User.dll
+E:\Programme\软工实习\10.12.39.205\trunk\User\bin\Debug\User.pdb
+E:\Programme\软工实习\10.12.39.205\trunk\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+E:\Programme\软工实习\10.12.39.205\trunk\User\obj\Debug\User.dll
+E:\Programme\软工实习\10.12.39.205\trunk\User\obj\Debug\User.pdb
+D:\作业\C#\10.12.39.205test\trunk\User\bin\Debug\User.dll
+D:\作业\C#\10.12.39.205test\trunk\User\bin\Debug\User.pdb
+D:\作业\C#\10.12.39.205test\trunk\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+D:\作业\C#\10.12.39.205test\trunk\User\obj\Debug\User.dll
+D:\作业\C#\10.12.39.205test\trunk\User\obj\Debug\User.pdb

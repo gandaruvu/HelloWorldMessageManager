@@ -1,0 +1,9 @@
+bin\Debug\TestServer.exe
+bin\Debug\TestServer.pdb
+bin\Debug\UDP.dll
+bin\Debug\UDP.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestServer.Properties.Resources.resources
+obj\Debug\TestServer.csproj.GenerateResource.Cache
+obj\Debug\TestServer.exe
+obj\Debug\TestServer.pdb
